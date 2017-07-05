@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ad0e8d3-96bc-452b-bcb4-90a83d1b9970" name="Default" comment="提交H5小游戏 初稿">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/.laya/astool/layajs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/.laya/astool/layajs.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/data.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/addBtn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/bg01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/bg02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/bg04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/bgLine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/gameBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/goodBean.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/goodBeanS.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/icon1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/icon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/icon3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/icon4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/icon4s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/panzi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/r1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/r2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/r3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/r4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/r5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/r6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/s1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/s2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/s3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/s4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/s5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/s6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/vscroll$bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/vscroll$down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/vscroll$up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/dice/vscroll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/res/atlas/dice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/res/atlas/dice1~.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/addBtn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/announced.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/bg01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/bg02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/bg03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/bg04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/bg05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/bg06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/bg07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/bg08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/bg09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/bgLine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/continue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/d1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/d2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/d3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/d4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/d5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/d6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/even.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/gameBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/goodBean.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/goodBeanB.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/goodBeanS.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/gs10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/gs11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/gs12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/gs13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/gs14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/gs15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/gs16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/gs17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/gs18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/gs3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/gs4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/gs5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/gs6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/gs7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/gs8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/gs9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/icon1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/icon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/icon3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/icon4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/icon4s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/leopard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/linkText01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/linkText02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/mask.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/odd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/pair.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/panzi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/r1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/r2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/r3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/r4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/r5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/r6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/revoke.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/s1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/s2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/s3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/s4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/s5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/s6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/stake.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/startBtn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/text02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/vscroll$bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/vscroll$down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/vscroll$up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/assets/dice/vscroll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/views/gameView.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/.idea/dice.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/.laya/astool/debug.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/.laya/launch.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/.laya/tasks.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/data/init.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/data/notice.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/data/result.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/LayaRender.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/laya.ani.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/laya.core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/laya.d3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/laya.d3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/laya.d3Plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/laya.debugtool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/laya.device.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/laya.filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/laya.html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/laya.particle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/laya.pathfinding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/laya.tiledmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/laya.ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/laya.webgl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/matter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/min/laya.ani.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/min/laya.core.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/min/laya.d3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/min/laya.d3Plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/min/laya.debugtool.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/min/laya.device.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/min/laya.filter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/min/laya.html.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/min/laya.particle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/min/laya.pathfinding.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/min/laya.tiledmap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/min/laya.ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/min/laya.webgl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/protobuf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/libs/worker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/res/atlas/dice.atlas" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/res/atlas/dice.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/res/atlas/rec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/bin/unpack.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/dice.laya" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/.laya" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/pages/gameView.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/laya/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/libs/LayaAir.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/src/game.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/src/gameView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dice/src/ui/layaUI.max.all.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LayaBox-H5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LayaBox-H5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ad0e8d3-96bc-452b-bcb4-90a83d1b9970" name="Default" comment="" />
+      <created>1499233815472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499233815472</updated>
+      <workItem from="1499233816935" duration="527000" />
+      <workItem from="1499234352592" duration="557000" />
+      <workItem from="1499235547030" duration="139000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1223000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交H5小游戏 初稿" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交H5小游戏 初稿" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

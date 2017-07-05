@@ -1,0 +1,12 @@
+<res>
+   <item name="dice/gameBg.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="dice/vscroll.png" type="VScrollBar" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="dice" type="" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="dice/diceD.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="dice/text01.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="dice/text02.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="dice/bg05.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="dice/bg07.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="dice/bg08.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="dice/bg09.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+</res>
